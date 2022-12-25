@@ -6,22 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryaman-Chaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanchaurasia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryaman-Chaurasia" alt="Aryaman-Chaurasia" /></a> </p>
-
-
 - 🌱 I’m currently learning **Ethical Hacking**
 
 - 💬 Ask me about ** Ethical Hacking and Penetration Testing**
 
-- 📫 How to reach me **aryachaurasia84@gmail.com**
+- 📫 How to reach me **aryamancha84@outlook.com**
 
 - My Linkedin Profile [Linkedin](https://www.linkedin.com/in/aryaman-chaurasia/) 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_kmOuGosW4j0WfS9DaitpzhXORk9Sfr-/view?usp=sharing)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📄 Know about my experiences [Resume] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
