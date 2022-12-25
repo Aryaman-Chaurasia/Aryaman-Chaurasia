@@ -14,20 +14,4 @@
 
 - My Linkedin Profile [Linkedin](https://www.linkedin.com/in/aryaman-chaurasia/) 
 
-- 📄 Know about my experiences [Resume] 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryaman-chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanish-bodhwani" height="30" width="40" /></a>
-<a href="https://fb.com/kanish.bodhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanish.bodhwani" height="30" width="40" /></a>
-<a href="https://instagram.com/kanish_bodhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanish_bodhwani" height="30" width="40" /></a>
-</p>
-
-<br>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryaman-Chaurasia&show_icons=true&locale=en&layout=compact" alt="Aryaman-Chaurasia" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryaman-Chaurasia&show_icons=true&locale=en" alt="Aryaman-Chaurasia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryaman-Chaurasia&" alt="Aryaman-Chaurasia" /></p>
+- 📄 Know about my experiences [Resume]
