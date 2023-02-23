@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryaman-Chaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanchaurasia" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking**
-
-- 💬 Ask me about ** Ethical Hacking and Penetration Testing**
-
 - 📫 How to reach me **aryamancha84@outlook.com**
 
 - My Linkedin Profile [Linkedin](https://www.linkedin.com/in/aryaman-chaurasia/) 
-
-- 📄 Know about my experiences [Resume]
