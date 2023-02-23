@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Aryaman Chaurasia </h1>
-<h3 align="center">A Cyber Security enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryaman-Chaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanchaurasia" /> </p>
 
